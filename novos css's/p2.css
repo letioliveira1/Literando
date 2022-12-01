@@ -1,0 +1,28 @@
+body{
+    background-image: url('../img/novo\ fundo.jpg');
+}
+footer{
+    background-color: blanchedalmond;
+}
+.table2{
+background-color: rgb(241, 199, 151);  
+}
+
+h1{
+    background-color: rgb(241, 205, 151);
+}
+.navbar{
+    background-color: rgb(252, 237, 216);
+}
+.border1{
+    background-color: blanchedalmond;
+}
+.border2{
+    background-color: blanchedalmond;
+}
+.border11{
+    border-color:rgb(241, 205, 151) ;
+}
+.border22{
+    border-color: blanchedalmond;
+}
